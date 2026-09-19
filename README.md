@@ -45,10 +45,3 @@ r=n%3600
 mi=r//60
 sec=r%60
 print(f"{h} hour {mi} minutes {sec} seconds")
-
-
-
-
-
-area=pi*r*r
-print(f"area of circle is {area}")
